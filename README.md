@@ -1,1 +1,1 @@
-# observability-stack-for-fastapistack-for-fastapi
+# observability-stack-for-fastapi
